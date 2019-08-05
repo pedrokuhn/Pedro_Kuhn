@@ -5,10 +5,13 @@ const teste3 = []
 const teste4 = []
 const teste5 = []
 const teste6 = []
-<<<<<<< HEAD
+
+const teste7 = []
+const teste8 = []
+const teste9 = []
 
 const teste10 = []
 const teste11 = []
 const teste12 = []
-=======
->>>>>>> Commit A
+
+
